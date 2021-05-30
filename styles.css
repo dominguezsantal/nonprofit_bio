@@ -1,4 +1,15 @@
-
+body {
+    display: block;
+    margin: 20px;
+    border: 20px;
+    padding: 20px;
+    
+    font-family: "Noto Sans",sans-serif;
+    font-size: 14px;
+    line-height: 1.7;
+    box-sizing: border-box;
+    margin: 0;
+}
 /*Navigation Bar CSS*/
 .topnav {
     background-color: #333;
