@@ -19,6 +19,44 @@ body{
     box-sizing: border-box;
     margin: 0;
 }
+
+/*logo*/
+#logo {
+  width: 15%;
+  height: 15%;
+  margin: 0;
+  overflow:visible;
+  float:left;
+  margin-left: 0em;
+  position:static;
+  
+}
+
+h1 {
+ 
+  
+
+}
+
+#logo ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+#logo ul li {
+  display:inline-flex;
+  list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
 /*Navigation Bar CSS*/
 .navBar {
     background-color: #333;
