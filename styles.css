@@ -32,11 +32,8 @@ body{
   
 }
 
-h1 {
- 
-  
 
-}
+
 
 #logo ul {
   margin: 0;
@@ -47,13 +44,6 @@ h1 {
   display:inline-flex;
   list-style-type: none;
 }
-
-
-
-
-
-
-
 
 
 
@@ -123,11 +113,18 @@ img {
     object-fit: cover;
     margin: 10px 10px 10px 10px;
 }
-/*This displays images vertically and adds padding, pargin*/
+/*This displays about me section*/
 
 
-/*Slideshow Buttons*/
-/* This adds buttons for the user to see the slideshow gallery*/
+#aboutMe {
+  column-count: 1;
+  box-sizing: content-box;
+  color:black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 100%;
+  float: center;
+  
+}
 
 
 
