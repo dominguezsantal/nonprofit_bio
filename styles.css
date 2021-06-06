@@ -76,13 +76,21 @@ body{
 }
 
 /*Image slideshow*/
+
+/*This makes the images the same size*/
 img {
     float: center;
-    width:  200px;
-    height: 200px;
+    width:  75%;
+    height: 75%;
     object-fit: cover;
+    margin: 10px 10px 10px 10px;
 }
+/*This displays images vertically and adds padding, pargin*/
 
-ul { display: flex; margin: 0; padding: 0; overflow: hidden; }
-li { display: block; list-style: none; }
+
+/*Slideshow Buttons*/
+/* This adds buttons for the user to see the slideshow gallery*/
+
+
+
 

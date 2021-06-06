@@ -1,6 +1,4 @@
-
-
-
+$('.carousel').carousel()
 
 
 /*Business logic of website*/
