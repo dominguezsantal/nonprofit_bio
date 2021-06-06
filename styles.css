@@ -1,9 +1,11 @@
 body{
         border: solid;
         border-width: 2em;
-        border-color: rosybrown;
-        padding-left: 10%;
+        border-color: transparent;
+        padding-left: 5%;
         padding-top: 5%;
+        padding-right: 5%;
+        padding-bottom: 5%;
     }
 .header-container {
     display: block;
