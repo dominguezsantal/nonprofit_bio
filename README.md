@@ -17,7 +17,7 @@
 https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo
 
 ## GH-Pages
-* _To Clone
+* _https://github.com/dominguezsantal/nonprofit_bio/tree/gh-pages
 
 
 ## Known Bugs
