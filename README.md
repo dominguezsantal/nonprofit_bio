@@ -17,13 +17,12 @@
 https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo
 
 ## GH Pages
-
 _https://dominguezsantal.github.io/nonprofit_bio
-
 
 ## Known Bugs
 
 -N/A
+
 ## Support and contact details
 Github: dominguezsantal
 
